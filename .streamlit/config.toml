@@ -1,0 +1,6 @@
+[server]
+enableCORS=false
+headless=true
+
+[general]
+email="javaindubai@gmail.com"
